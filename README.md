@@ -20,7 +20,7 @@
 </h1>
 
 <p align="center">
-  <img src="uploads/69103f113e21c_1762672401.jpg" alt="ReMarket Preview" width="600" style="max-width: 100%; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="assets/css/preview-image.png" alt="ReMarket Preview" width="600" style="max-width: 100%; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </p>
 
 ---
