@@ -18,11 +18,7 @@
 </h1>
 
 <p align="center">
-<<<<<<< HEAD
-  <img src="assets/css/preview-image.png" alt="ReMarket Preview" width="600" style="max-width: 100%; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-=======
   <img src="assets/preview-image.png" alt="ReMarket Preview" width="600" style="max-width: 100%; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
->>>>>>> 01fe6ab (Completed README)
 </p>
 
 ---
@@ -118,10 +114,10 @@ MIT — feel free to use and modify for learning or projects.
 
 > ## 👨‍💻 Contributors
 
-| Name            | Website                                       |
-| --------------- | --------------------------------------------- |
-| Ravi Kumar Sah  | [ravikumarsah07.github.io](https://ravikumarsah07.github.io/Portfolio/)       |  
-| Ankit Chaudhary | [aka-ank.github.io](https://aka-ank.github.io/Portfolio/) |
-| Prawesh Mandal  | [prawesh.me](https://prawesh.me)                 |
+| Name            | Website                                                              |
+| --------------- | -------------------------------------------------------------------- |
+| Ravi Kumar Sah  | [ravikumarsah07.github.io](https://ravikumarsah07.github.io/Portfolio/) |
+| Ankit Chaudhary | [aka-ank.github.io](https://aka-ank.github.io/Portfolio/)               |
+| Prawesh Mandal  | [prawesh.me](https://prawesh.me)                                        |
 
 ---
