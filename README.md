@@ -45,7 +45,11 @@
 - `profile.php` — user profile
 - `sell_product.php` — product upload form
 - `uploads/` — uploaded product images
-
+---
+> ## Default Login
+- Username : prawesh12
+- Password : 123@abcdefghi
+---
 > ## ⚙️ Installation and setup
 
 1. Clone the repo:
